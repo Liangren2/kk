@@ -1,0 +1,30 @@
+# 配置tomcat端口号
+server:
+  port: 9000
+# spring 数据源：数据库连接的四要素（驱动程序，数据库连接地址，登录名，登录密码）
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver # 数据库驱动程序
+    # 数据库连接地址URL
+    url: jdbc:mysql://localhost:3306/demo303_db?characterEncoding=utf-8&allowMultiQueries=true
+    username: root # 数据库登录用户
+    password: webb6433 # 数据库登录密码
+    type: com.zaxxer.hikari.HikariDataSource # 数据池
+    hikari:
+      # 池中维护的最小连接数
+      minimum-idle: 10
+      # 池中最大连接数，包括闲置和使用的连接数
+      maxmum-pool-size: 20
+      # 池中连接最长生命周期，默认为30分钟
+      max-lifetime: 1800000
+      # 允许最长空闲时间
+      idle-timeout: 30000
+      # 数据库连接超时时间，默认为30秒
+      connection-timeout: 30000
+# mybatis
+mybatis:
+  # 映射文件的保存位置
+  mapper-locations: classpath:mapper/*.xml
+  # 调试时从控制台输出sql日志，正式发布时不用设置
+  configuration:
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fcead4b-fcc0-4dc5-8c1a-dad1f4045c6c" name="Default Changelist" comment="第一次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2Adnnd0iheDynSRW8J5LCpSi0s5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\良人\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\.the second semester of sophomore\大二暑假实训\项目\ASFD_df" />
+          <option name="myCopyRoot" value="D:\.the second semester of sophomore\大二暑假实训\项目\ASFD_df" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\.the second semester of sophomore\大二暑假实训\项目\ASFD_df" />
+          <option name="myCopyRoot" value="D:\.the second semester of sophomore\大二暑假实训\项目\ASFD_df" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fcead4b-fcc0-4dc5-8c1a-dad1f4045c6c" name="Default Changelist" comment="" />
+      <created>1655348497373</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655348497373</updated>
+      <workItem from="1655348503295" duration="1475000" />
+      <workItem from="1655350013950" duration="1269000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1655348649512</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655348649513</updated>
+    </task>
+    <task id="LOCAL-00002" summary="提交‘修改’">
+      <created>1655350142699</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655350142699</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <MESSAGE value="提交‘修改’" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交‘修改’" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="6" width="857" height="812" key="CommitChangelistDialog2" timestamp="1655350140719">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="366" y="6" width="857" height="812" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1655350140719" />
+    <state x="663" y="153" width="590" height="517" key="FileChooserDialogImpl" timestamp="1655350229704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="663" y="153" width="590" height="517" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1655350229704" />
+    <state x="581" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1655350268135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="581" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1655350268135" />
+    <state x="178" y="0" key="new project wizard" timestamp="1655360319639">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1655360319639" />
+    <state x="517" y="310" key="svn.passwordDialog" timestamp="1655349477381">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="310" key="svn.passwordDialog/0.0.1536.824@0.0.1536.824" timestamp="1655349477381" />
+    <state x="599" y="203" width="566" height="417" key="svn.repositoryBrowser" timestamp="1655350258195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="203" width="566" height="417" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1655350258195" />
+    <state x="614" y="325" key="svn.upgradeDialog" timestamp="1655350006737">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="325" key="svn.upgradeDialog/0.0.1536.824@0.0.1536.824" timestamp="1655350006737" />
+    <state x="532" y="278" width="698" height="268" key="svn4idea.checkout.options" timestamp="1655350005037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="532" y="278" width="698" height="268" key="svn4idea.checkout.options/0.0.1536.824@0.0.1536.824" timestamp="1655350005037" />
+    <state x="681" y="176" key="svn4idea.import.options" timestamp="1655350251395">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="681" y="176" key="svn4idea.import.options/0.0.1536.824@0.0.1536.824" timestamp="1655350251395" />
+  </component>
+</project>
